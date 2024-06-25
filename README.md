@@ -1,4 +1,5 @@
 # DeepNude AI List
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=gsw85.DeepNude-AI-Tools-List)
 This repository offers a comprehensive list of AI tools for NSFW (Not Safe For Work) image editing, focusing on de-nudification of individuals (male & female). It covers popular technologies such as DeepNude, AI nude generation, and undress AI, while addressing ethical considerations, legal implications, and the latest advancements in this controversial field.
 
 **Keywords**: DeepNude, AI nude generation, undress AI, NSFW image editing, AI-generated content, image manipulation technology.
