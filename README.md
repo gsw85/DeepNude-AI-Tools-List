@@ -57,5 +57,5 @@ and the latest advancements in this controversial field.
 | [EasyWithAI.com](https://easywithai.com/)       | India (41%)                        | 588k                          | July 03, 2024   |
 | [NSFW.tools](https://nsfw.tools/)               | US (24%), India (12%)              | 44.4k                         | July 03, 2024   |
 | [AINSFWTools.com](https://www.ainsfwtools.com/) | US (19%), Germany (9%), India (7%) | 73.1k                         | July 03, 2024   |
-| [theInsaneApp.com](https://theinsaneapp.com/)   | India (37%), US (7%)               | 119.4k                        | July 03, 2024   |
+| [TheInsaneApp.com](https://theinsaneapp.com/)   | India (37%), US (7%)               | 119.4k                        | July 03, 2024   |
 
