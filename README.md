@@ -52,10 +52,10 @@ and the latest advancements in this controversial field.
 
 ## Tools Directory
 
-| **Directory Name**                              | **Key Features**             | **Est. Top Countries**             | **Est. Monthly Traffic** | **Last Update** |
-|-------------------------------------------------|------------------------------|------------------------------------|--------------------------|-----------------|
-| [EasyWithAI.com](https://easywithai.com/)       | NSFW, Semi-nude              | India (41%)                        | 588k                     | July 03, 2024   |
-| [NSFW.tools](https://nsfw.tools/)               | NSFW, Full nude              | US (24%), India (12%)              | 44.4k                    | July 03, 2024   |
-| [AINSFWTools.com](https://www.ainsfwtools.com/) | NSFW, nude with part blurred | US (19%), Germany (9%), India (7%) | 73.1k                    | July 03, 2024   |
-| [theInsaneApp.com](https://theinsaneapp.com/)   | NSFW, Semi-nude              | India (37%), US (7%)               | 119.4k                   | July 03, 2024   |
+| **Directory Name**                              | **Est. Top Countries**             | **Est. Monthly Traffic** | **Last Update** |
+|-------------------------------------------------|------------------------------------|--------------------------|-----------------|
+| [EasyWithAI.com](https://easywithai.com/)       | India (41%)                        | 588k                     | July 03, 2024   |
+| [NSFW.tools](https://nsfw.tools/)               | US (24%), India (12%)              | 44.4k                    | July 03, 2024   |
+| [AINSFWTools.com](https://www.ainsfwtools.com/) | US (19%), Germany (9%), India (7%) | 73.1k                    | July 03, 2024   |
+| [theInsaneApp.com](https://theinsaneapp.com/)   | India (37%), US (7%)               | 119.4k                   | July 03, 2024   |
 
