@@ -16,7 +16,7 @@ and the latest advancements in this controversial field.
 | **Tools Name**                                       | **Key Features**                                                      | **Pricing Options**                |
 |------------------------------------------------------|-----------------------------------------------------------------------|------------------------------------|
 | [Pornstars.ai](https://www.pornstars.ai/)            | Deepfake Generation: Web Apps                                         | Freemium, $15 ~ $25 / month        |
-| [Nudify.me](https://www.nudify.me/)                  | Deepnude: Web Apps, Telegram Bot, Telegram Mini Apps, Private Gallery | $4.99 ~ $199.99                    |
+| [Nudify.me](https://www.nudify.me/)                  | Deepnude: Web Apps, Telegram Bot, Telegram Mini Apps, Private Gallery | Free Trial, $4.99 ~ $199.99        |
 | [Undressing.ai](https://undressing.ai)               | Deepnude: Web Apps                                                    | Freemium, $7.99 ~ $34.99           |
 | [PornGen.art](https://porngen.art)                   | Deepnude, Faceswap (Image), Deepfake Generation: Web Apps             | $19.99 ~ $599.99                   |
 | [UndressPro.ai](https://undresspro.ai)               | Deepnude, Faceswap (Image), Deepfake Generation: Web Apps             | $19.99 ~ $599.99                   |
