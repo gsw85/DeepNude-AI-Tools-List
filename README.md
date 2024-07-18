@@ -53,11 +53,11 @@ and the latest advancements in this controversial field.
 
 ## Tools Directory
 
-| **Directory Name**                              | **Estimated Top Countries**        | **Estimated Monthly Traffic** | **Last Update** |
-|-------------------------------------------------|------------------------------------|-------------------------------|-----------------|
-| [EasyWithAI.com](https://easywithai.com/)       | India (41%)                        | 588k                          | July 03, 2024   |
-| [NSFW.tools](https://nsfw.tools/)               | US (24%), India (12%)              | 44.4k                         | July 03, 2024   |
-| [AINSFWTools.com](https://www.ainsfwtools.com/) | US (19%), Germany (9%), India (7%) | 73.1k                         | July 03, 2024   |
-| [TheInsaneApp.com](https://theinsaneapp.com/)   | India (37%), US (7%)               | 119.4k                        | July 03, 2024   |
+| **Directory Name**                              | **Estimated Top Countries**         | **Estimated Monthly Traffic** | **Last Update** |
+|-------------------------------------------------|-------------------------------------|-------------------------------|-----------------|
+| [EasyWithAI.com](https://easywithai.com/)       | India (41%)                         | 600.5k                        | July 18, 2024   |
+| [NSFW.tools](https://nsfw.tools/)               | US (29%), India (9%)                | 39.1k                         | July 18, 2024   |
+| [AINSFWTools.com](https://www.ainsfwtools.com/) | US (21%), India (14%), Germany (9%) | 89.1k                         | July 18, 2024   |
+| [TheInsaneApp.com](https://theinsaneapp.com/)   | India (46%)                         | 111.5k                        | July 18, 2024   |
 
 
