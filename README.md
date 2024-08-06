@@ -51,16 +51,17 @@ and the latest advancements in this controversial field.
 | [NSFWartgenerator](https://www.nsfwartgenerator.ai/) | Deepfake Generation: Web Apps                                         | $9.99 / month ~ $67.99 / year      |
 | [Pornstars.ai](https://www.pornstars.ai/)            | Deepfake Generation: Web Apps                                         | Freemium, $15 ~ $25 / month        |
 | [DreamGF.ai](https://dreamgf.ai/)                    | Deepfake Generation: Web Apps                                         | Free Trial, $25.99 ~ $311 / month  |
+| [Dailyfakes.com](https://dailyfakes.com/)            | Faceswap                                                              | Free with Ads                      |
 
 
 
 ## Tools Directory
 
-| **Directory Name**                              | **Estimated Top Countries**         | **Estimated Monthly Traffic** | **Last Update** |
-|-------------------------------------------------|-------------------------------------|-------------------------------|-----------------|
-| [EasyWithAI.com](https://easywithai.com/)       | India (41%)                         | 600.5k                        | July 18, 2024   |
-| [NSFW.tools](https://nsfw.tools/)               | US (29%), India (9%)                | 39.1k                         | July 18, 2024   |
-| [AINSFWTools.com](https://www.ainsfwtools.com/) | US (21%), India (14%), Germany (9%) | 89.1k                         | July 18, 2024   |
-| [TheInsaneApp.com](https://theinsaneapp.com/)   | India (46%)                         | 111.5k                        | July 18, 2024   |
+| **Directory Name**                              | **Estimated Top Countries**                  | **Estimated Monthly Traffic** | **Last Update** |
+|-------------------------------------------------|----------------------------------------------|-------------------------------|-----------------|
+| [EasyWithAI.com](https://easywithai.com/)       | India (42%)                                  | 565.4k                        | Aug 06, 2024    |
+| [NSFW.tools](https://nsfw.tools/)               | US (31%), India (9%), Germany (6%)           | 49.9k                         | Aug 06, 2024    |
+| [AINSFWTools.com](https://www.ainsfwtools.com/) | US (28%), India (10%), UK (6%), Germany (6%) | 112.3k                        | Aug 06, 2024    |
+| [TheInsaneApp.com](https://theinsaneapp.com/)   | India (45%)                                  | 93.3k                         | Aug 06, 2024    |
 
 
